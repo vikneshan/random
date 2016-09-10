@@ -1,2 +1,2 @@
 # random
-Place for those with no home
+Place for projects with no home

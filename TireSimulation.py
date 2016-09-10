@@ -3,7 +3,7 @@
 Created on Wed Sep  7 22:46:53 2016
 
 @author: Vikneshan
-
+http://vikneshan.blogspot.com/2016/09/tire-pressure-simulations.html for more information
 Simulating tire pressure throughout the year, with weather data and some other assumptions
 
 """
